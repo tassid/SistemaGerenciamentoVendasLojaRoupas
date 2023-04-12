@@ -23,3 +23,6 @@ Alunos:
 - Bernard Moreno
 - Daniel Casanova
 - Tassiane Anzolin
+
+Observações:
+Para executar, é necessário possuir o [Visual Studio com suporte a .NET](https://visualstudio.microsoft.com/pt-br/vs/features/net-development/).
