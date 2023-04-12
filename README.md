@@ -1,7 +1,7 @@
 # Sistema de Gerenciamento de Vendas de Loja de Roupas
 Este projeto é um sistema de gerenciamento de vendas para uma loja de roupas, desenvolvido em C# e ASP.NET. O objetivo deste projeto é aplicar conceitos de Programação Orientada a Objetos para criar um modelo de negócio que possa ser utilizado por uma loja de roupas.
 
-## Classes básicas:
+Classes básicas:
 - Produto: representa os produtos disponíveis na loja. Contém atributos como nome, descrição, preço e categoria.
 - Categoria: representa as categorias de produtos disponíveis na loja. Contém atributos como nome e descrição.
 - Cliente: representa os clientes da loja. Contém atributos como nome, sobrenome, endereço e número de telefone.
