@@ -14,3 +14,12 @@ Requisitos:
 - Criar uma pasta Model para as classes apontadas como básicas.
 - Criar uma pasta chamada UI. Nela, criar uma classe para cada funcionalidade, como por exemplo CategoriaUI, onde UI é User Interface.
 - Para cada funcionalidade, criar métodos para registrar uma categoria, alterar, buscar todas, buscar uma, com base no ID e remover uma categoria em específico.
+
+Tecnologias usadas:
+- ASP.NET 6.0
+- C#
+
+Alunos:
+- Bernard Moreno
+- Daniel Casanova
+- Tassiane Anzolin
