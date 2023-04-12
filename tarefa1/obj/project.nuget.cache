@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eRP7kUeCGdLmUIfjuEf43veYLCbpuG/yrSYYLo0miSfrzCVKj5VTkhowtE8Jbxn7x/HMrXyFqc3ORzzNxVSpkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\berna\\source\\repos\\tarefa1\\tarefa1\\tarefa1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\berna\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\berna\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\berna\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\berna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
