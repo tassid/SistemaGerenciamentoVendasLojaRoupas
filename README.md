@@ -24,5 +24,5 @@ Este projeto é um sistema de gerenciamento de vendas para uma loja de roupas, d
 - Daniel Casanova
 - Tassiane Anzolin
 
-#### Observações:
+### Observações:
 Para executar, é necessário possuir o [Visual Studio com suporte a .NET](https://visualstudio.microsoft.com/pt-br/vs/features/net-development/).
